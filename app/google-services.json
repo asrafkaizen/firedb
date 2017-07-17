@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "562707561754",
+    "firebase_url": "https://firedbtest-9bdf0.firebaseio.com",
+    "project_id": "firedbtest-9bdf0",
+    "storage_bucket": "firedbtest-9bdf0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:562707561754:android:4df794b3f6aa9fe5",
+        "android_client_info": {
+          "package_name": "my.com.ydkmm.firedbtest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "562707561754-hi5ag3qfjvhlvru6ve16celn46v87u46.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMrGMd4sp8m8J5z1qesNT4XP9ZhcQImJM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
